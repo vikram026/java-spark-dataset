@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.JavaSparkAppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-30T06:10:21" hostname="ML-C02V10RHG8WL" time="0.004">
+  <properties/>
+  <testcase name="shouldAnswerWithTrue" classname="com.example.JavaSparkAppTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (com.example.JavaSparkAppTest).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>
